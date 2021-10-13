@@ -1,7 +1,7 @@
 pipeline {
     agent {
-	lable{
-		lable "lemp-server"
+	label{
+		label "lemp-server"
 		}
 	}
 
